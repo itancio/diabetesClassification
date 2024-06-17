@@ -7,3 +7,15 @@ Objective: classify a diabetes diagnosis based on patients' data. We want to gai
 This dataset contains comprehensive health data for 1,879 patients, uniquely identified with IDs ranging from 6000 to 7878. The data includes demographic details, lifestyle factors, medical history, clinical measurements, medication usage, symptoms, quality of life scores, environmental exposures, and health behaviors. Each patient is associated with a confidential doctor in charge, ensuring privacy and confidentiality.
 
 [Data source: Diabetes Health Dataset Analysis](https://www.kaggle.com/datasets/rabieelkharoua/diabetes-health-dataset-analysis/data)
+
+<img src="assets/diabetes2.png" width="80%"/>
+
+<img src="assets/diabetes3.png" width="80%"/>
+
+<img src="assets/diabetes4.png" width="80%"/>
+
+<img src="assets/diabetes5.png" width="80%"/>
+
+<img src="assets/diabetes6.png" width="80%"/>
+
+<img src="assets/diabetes7.png" width="80%"/>
